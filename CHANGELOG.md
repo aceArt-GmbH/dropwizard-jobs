@@ -1,5 +1,10 @@
 # Changelog
 
+## 6.0.0 (upcoming)
+
+* Major refactoring and clean up by @hakandilek in #121
+  BREAKING: `JobsBundle()` constructir receives a `List` instead of `Varargs`
+
 ## 5.1.2
 
 * Bump jackson-core from 2.15.1 to 2.15.2 by @dependabot in https://github.com/dropwizard-jobs/dropwizard-jobs/pull/184
